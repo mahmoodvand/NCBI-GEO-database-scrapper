@@ -1,3 +1,3 @@
-# Single Cell Scraper
+# GEO-NCBI database Scraper
 
-This tool scrapes single-cell dataset metadata from biomedical databases.
+A lightweight and efficient tool for scraping and organizing single-cell dataset metadata from multiple biomedical databases. Designed to support bioinformatics research by providing structured, searchable, and ready-to-use metadata.
